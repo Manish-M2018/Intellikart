@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IntelliKart</string>
+
+    //landing_page strings
+    <string name="guide0">Intellikart...An initiative for smart shopping</string>
+    <string name="guide1">Please follow the following steps to enjoy our initiative for smart shopping : </string>
+    <string name="guide2">1) Scan the cart you choose using the QR code scanner</string>
+    <string name="guide3">2) Start shopping for the items that you want.</string>
+    <string name="guide4">3) When you have shopped for 10 items, a message will pop up asking you for confirmation as to whether you would want to purchase those 10 items</string>
+    <string name="guide5">4) If you click on "Yes" , your items will be transferred to the permanent cart. If you click on "NO", then scan the item that you want to remove and click on the remove button. Continue shopping till you have shopped for 10 items again.</string>
+    <string name="guide6">5) Once you have completed your shopping, click on the end shopping button and complete the payment</string>
+    <string name="guide7">6) Once your payment is confirmed, get it verified by the security and you could head towards the exit</string>
+    <string name="guide8">Happy Shopping!!!</string>
+    <string name="button_to_scanner">Continue</string>
+
+    //Login page strings
+    <string name="header">Login To Continue</string>
+    <string name="phone">Mobile No.</string>
+    <string name="psw">Password</string>
+    <string name="login_btn">Login</string>
+</resources>
