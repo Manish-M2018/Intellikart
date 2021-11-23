@@ -11,3 +11,7 @@ It includes a barcode and QR code scanner using the Zxing library.
 1) For every 10 items, the list of items moves to permanent list and the temporary list is refreshed<br>
 2) After the shopping is complete, retrieve the data about the price of each and every product purchased<br>
 3) Integrate the payment gateways for payments to be done online.
+
+
+# Achievement Semifinalist at the Avery Dennison Spirit of InvEnt Scholarship Challenge
+Qualified to the final round of the challenge where I had to pitch my idea of innovation to the judges in New Delhi!
